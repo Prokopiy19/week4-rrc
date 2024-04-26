@@ -4,7 +4,9 @@
 # Executables
 *.exe
 *.out
-*.app
 
 # asn1 generated files
 src/
+
+# build files
+build/
